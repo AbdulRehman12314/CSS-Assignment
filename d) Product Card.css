@@ -1,0 +1,50 @@
+#div{
+    width: 300px;
+    height: 600px;
+    background-color: white;
+    background-position: auto;
+    border: 10px;
+    border-color: black;
+    border-width: 10%;
+    border-style: double;
+    border-radius: 10%;
+    padding: auto;
+    margin: auto;
+    position: relative;
+    justify-items: center;
+    justify-content: center;
+}
+#div1{
+    position: relative;
+    top:1px ;
+    left: 15%;
+ }
+ #div3{
+    position: absolute;
+    top: 40%;
+    left: 30%;
+ }
+ p{
+    font-size: large;
+    position: absolute;
+    top: 50%;
+    left: 20%;
+ }
+ #div4{
+    position: absolute;
+    top:60%;
+    left: 30%;
+ }
+ #div5{
+    position: absolute;
+    top: 75%;
+    left: 15%;
+ }
+ button{
+    background-color: orange;
+    position: absolute;
+    top: 90%;
+    left: 15%;
+    width: 70%;
+    height: 10%;
+ }

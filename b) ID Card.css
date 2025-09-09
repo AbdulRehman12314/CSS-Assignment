@@ -1,0 +1,61 @@
+#div{ 
+    width: 500px;
+    height: 500px;
+    border: 50px;
+    border-color: cornflowerblue;
+    border-width: 20px;
+    border-style: double;
+    padding: 20px;
+    background-color: aqua;
+    
+    margin: auto;
+   }
+h1{
+  color: coral;
+  font-size: 80px;
+   font-style: italic;
+   font-weight: bolder;
+   position: absolute;
+   top: 0px;
+   right: 40%;
+
+}
+img{
+   position: relative;
+   left: 300px;
+   margin-top: 90px;
+   border: 2px solid black;
+   border-radius: 10px;
+}
+#circle{
+   width: 120px;
+   height: 120px;
+   border-radius: 50%;
+   border: 8px solid navy;
+   position: absolute;
+   top: 30px;
+   left: 30%;
+background-image: url("./bahria.png");
+background-size: cover;
+background-position: center;
+
+}
+ 
+#p{
+   color: blue;
+   font-size: x-large;
+   font-weight: bold;
+   font-display: 20px;
+   position: absolute;
+   top: 60%;
+   
+}
+#p1{
+    color: gold;
+   font-size: x-large;
+   font-weight: bold;
+   font-display: 20px;
+   position: absolute;
+   right: 40%;
+   top: 60%;
+}
